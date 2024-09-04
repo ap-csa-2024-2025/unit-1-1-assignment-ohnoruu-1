@@ -4,7 +4,7 @@ In `problem2.java` write a program which prints the phrase “Coding is fun!” 
 
  public class problem2 {
     public static void main (String [] args){
-        String msg = "Coding is fun!";
+        String msg = "                                                                                            Coding is fun!                                                                                                           ";
         System.out.println(msg);
         System.out.println(msg);
         System.out.println(msg);

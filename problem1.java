@@ -8,7 +8,7 @@ To center your output, you should use spaces in your String (at the beginning an
 public class problem1 {
     public static void main(String[] args)
   {
-    String favAuthor = "ONE";
+    String favAuthor = "                                                                                     ONE                                                                                                                                                 ";
     System.out.print(favAuthor);
   }
 }
